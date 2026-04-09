@@ -1,0 +1,9 @@
+# Binary-only release repository
+*
+
+!.gitignore
+!README.md
+!release/
+
+release/**
+!release/*.zip
